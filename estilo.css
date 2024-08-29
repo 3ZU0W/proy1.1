@@ -1,0 +1,51 @@
+*
+{margin: 0px;}
+.padre
+{
+    background-color: rgb(80, 159, 165);
+    padding: 10px;
+    width: 600px;
+    height: 650px;
+}
+.hijo
+{
+    background-color: rgb(170, 228, 174);
+    margin: 20px;
+    padding: 10px;
+}
+.nieto
+{
+    background-color: rgb(238, 227, 181);
+    padding: 10px;
+    margin: 10px;
+}
+.bisnieto
+{
+    background-color: rgb(230, 215, 166);
+    padding: 10px;
+}
+.cj4
+{
+    background-color: rgb(231, 191, 179);
+    padding: 10px;
+}
+.cj5
+{
+    background-color: rgb(236, 189, 217);
+    padding: 10px;
+}
+.cj6
+{
+    background-color: rgb(207, 189, 235);
+    padding: 10px;
+}
+.cj7
+{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: xx-small;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 10px;
+}
